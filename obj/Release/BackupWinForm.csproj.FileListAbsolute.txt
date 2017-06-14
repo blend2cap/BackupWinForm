@@ -1,0 +1,15 @@
+C:\Users\blend\documents\visual studio 2017\Projects\ConsoleApp1\BackupWinForm\bin\Release\BackupWinForm.exe.config
+C:\Users\blend\documents\visual studio 2017\Projects\ConsoleApp1\BackupWinForm\bin\Release\BackupWinForm.exe
+C:\Users\blend\documents\visual studio 2017\Projects\ConsoleApp1\BackupWinForm\bin\Release\BackupWinForm.pdb
+C:\Users\blend\documents\visual studio 2017\Projects\ConsoleApp1\BackupWinForm\bin\Release\BackupLib.dll
+C:\Users\blend\documents\visual studio 2017\Projects\ConsoleApp1\BackupWinForm\bin\Release\BackupLib.pdb
+C:\Users\blend\documents\visual studio 2017\Projects\ConsoleApp1\BackupWinForm\bin\Release\BackupLib.dll.config
+C:\Users\blend\documents\visual studio 2017\Projects\ConsoleApp1\BackupWinForm\obj\Release\BackupWinForm.csprojResolveAssemblyReference.cache
+C:\Users\blend\documents\visual studio 2017\Projects\ConsoleApp1\BackupWinForm\obj\Release\BackupWinForm.Form1.resources
+C:\Users\blend\documents\visual studio 2017\Projects\ConsoleApp1\BackupWinForm\obj\Release\BackupWinForm.Properties.Resources.resources
+C:\Users\blend\documents\visual studio 2017\Projects\ConsoleApp1\BackupWinForm\obj\Release\BackupWinForm.csproj.GenerateResource.Cache
+C:\Users\blend\documents\visual studio 2017\Projects\ConsoleApp1\BackupWinForm\obj\Release\BackupWinForm.exe
+C:\Users\blend\documents\visual studio 2017\Projects\ConsoleApp1\BackupWinForm\obj\Release\BackupWinForm.pdb
+C:\Users\blend\Desktop\BackupWinForm\BackupWinForm.exe.config
+C:\Users\blend\Desktop\BackupWinForm\BackupWinForm.exe
+C:\Users\blend\Desktop\BackupWinForm\BackupWinForm.pdb
